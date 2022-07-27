@@ -1,3 +1,3 @@
 
-rootProject.name = "algorithm-study"
+rootProject.name = "let-s-play-kotlin"
 
